@@ -2,3 +2,19 @@ body{
     margin: 0;
    
 }
+main{
+   background-color: beige;
+}
+.nav{
+
+}
+.row_1{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+img{
+    height: 200px;
+    width: 200px;
+
+}
