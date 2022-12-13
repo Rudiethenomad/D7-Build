@@ -126,6 +126,12 @@ img{
     width: 30px;;
 }
 .heart{
-    height: 18px;
-    width: 18px;
+    height: 12px;
+    width: 12px;
+}
+.ellipse{
+
+ height: 12px;
+    width: 12px;
+
 }
