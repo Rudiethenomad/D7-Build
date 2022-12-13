@@ -85,12 +85,7 @@ img{
 
    
 }
-.row_1 button{
-  
 
-
-
-}
 .dis_1span_1{
     padding-top:10px;
 
@@ -119,13 +114,34 @@ img{
 }
 
 .dis_3{
+    display:flex;
     font-size: x-small;
     font-weight: 900;
     
 }
+
+.dis_3span_1{
+    padding-top:10px;
+
+
+}
+.dis_3span_2{
+    padding-top:8px;
+
+}
 .dis_4{
+    display:flex;
     font-size: x-small;
     font-weight: 900;
+}
+.dis_4span_1{
+    padding-top:10px;
+
+
+}
+.dis_4span_2{
+    padding-top:8px;
+
 }
 
 .row_2{
@@ -134,22 +150,62 @@ img{
     justify-content: space-between;
 }
 .dis_5{
+    display:flex;
     font-size: x-small;
     font-weight: 900;
+}
+.dis_5span_1{
+    padding-top:10px;
+
+
+}
+.dis_5span_2{
+    padding-top:8px;
+
 }
 
 .dis_6{
+    display:flex;
     font-size: x-small;
     font-weight: 900;
+}
+.dis_6span_1{
+    padding-top:10px;
+
+
+}
+.dis_6span_2{
+    padding-top:8px;
+
 }
 
 .dis_7{
+    display: flex;
     font-size: x-small;
     font-weight: 900;
 }
+.dis_7span_1{
+    padding-top:10px;
+
+
+}
+.dis_7span_2{
+    padding-top:8px;
+
+}
 .dis_8{
+    display:flex;
     font-size: x-small;
     font-weight: 900;
+}
+.dis_8span_1{
+    padding-top:10px;
+
+
+}
+.dis_8span_2{
+    padding-top:8px;
+
 }
 .circle{
     height:30px;
