@@ -80,6 +80,8 @@ img{
 .dis_1{
     font-size: x-small;
     font-weight: 900;
+
+   
 }
 .dis_2{
     font-size: x-small;
@@ -118,4 +120,12 @@ img{
 .dis_8{
     font-size: x-small;
     font-weight: 900;
+}
+.circle{
+    height:30px;
+    width: 30px;;
+}
+.heart{
+    height: 18px;
+    width: 18px;
 }
