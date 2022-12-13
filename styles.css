@@ -5,8 +5,8 @@ body{
 }
 main{
    background-color: beige;
-   padding-left: 70px;
-   padding-right: 70px;
+   padding-left: 300px;
+   padding-right: 300px;
    height: 100vh;
   
 }
@@ -19,8 +19,26 @@ main{
     display: flex;
     margin-top: 0;
     justify-content: center;
+
    
    
+}
+.par_2{
+    display: flex;
+    margin-top: 0;
+    justify-content: space-between;
+    
+}
+.par_2 span{
+    justify-content:space-between;
+   
+
+
+}
+.nav{
+    display:flex;
+    justify-content:space-between;
+    padding-top: 40px;
 }
 
 .nav .b_one{
@@ -31,6 +49,7 @@ main{
     display:flex;
     flex-direction: row;
     justify-content: space-between;
+    padding-top: 25px;
 }
 img{
     height: 200px;
